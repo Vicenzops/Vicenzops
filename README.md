@@ -1,5 +1,6 @@
  Olá 👋, Me chamo Vicenzo Peres Sestari!
 
+- Trabalho como Programador PL/SQL Jr
 - 🔭 Curso Ciências da Computação na FEI
 - 🌱 Atualmente estou aprendendo MongoDB e JavaScript
 
