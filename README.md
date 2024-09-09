@@ -1,8 +1,8 @@
  Olá 👋, Me chamo Vicenzo Peres Sestari!
 
 - Trabalho como Programador PL/SQL Pleno
-- 🔭 Curso Ciências da Computação na FEI
-- 🌱 Atualmente estou aprendendo PL/SQL e JavaScript
+- 🔭 Curso Ciências da Computação na USCS
+- 🌱 Atualmente estou aprendendo Tuning de SQL Querys e Clusterização de VMs 
 
 
 <a href="https://github.com/Vicenzops">
@@ -12,7 +12,14 @@
   
 **Programming Languages**
 
-<img alt="Vips-Js" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img align="center" alt="Vips-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|<img align="center" alt="Vips-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">|<img align="center" alt="Vips-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">|<img align="center" alt="Vips-NodeJs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"/>|
+<img align="center" alt="Vips-Js" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>|
+<img align="center" alt="Vips-Python" title="Phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>|
+<img align="center" alt="Vips-Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="center" alt="Vips-HTML" title="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>|
+<img align="center" alt="Vips-CSS" title="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>|
+<img align="center" alt="Vips-NodeJs" title="NodeJs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>|
+<img align="center" alt="Vips-Kotlin" title="Kotlin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 |--|--|--|--|--|
 
 <!-- **Libraries and Frameworks**  -->
@@ -20,12 +27,19 @@
 
 **Databases**
 
-| <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | 
+| 
+<img align="center" alt="Vips-Oracle" title="Oracle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> | 
+<img align="center" alt="Vips-Postegre" title="Postegre" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />|
+<img align="center" title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"/> | 
 |--|--|
 
 **Tools**
 
-| <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> |
+| 
+<img align="center" alt="Vips-SQLdev" title="SQLDeveloper" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />|
+<img align="center" alt="Vips-Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />|
+<img align="center" title="Vips-VsCode" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> | 
+<img align="center" title="Vips-Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/> |
 |--|--|
  
 ## Contact
